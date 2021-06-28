@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+.mynavbar{
+    position:sticky;
+    z-index: 99999;
+    top:0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+marquee{
+    direction:right;
+}
+#SchoolLife iframe{
+    margin-top: 10px
+}
+#Homepage iframe{
+    width: 90%;
+    height: 600px;
+}
+.flex-container{
+    direction: rtl;
+    display: flex;
+}
+.School_MainDiv{
+    margin-right: 50px;
+}
+.School_MainDiv img{
+    width: 290px;
+    height: 290px;
+}
+.achievement-head i{
+    float: right;
+}
+.achievement-head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    display: inline-block;
+    width: 100%;
+}
+.achievements-head p{
+    float: left;
+}
+.events_li{
+    margin-top: 13px;
+}
+.events_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+    margin-right: 800px;
+}
+.events_li img{
+    border-radius: 25px;
+}
+.events_li p{
+    margin-top: 10px;
+    text-align: left;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
+.alumni{
+    cursor: pointer;
+}
+.alumni hr{
+    margin-bottom: 10px;
+}
